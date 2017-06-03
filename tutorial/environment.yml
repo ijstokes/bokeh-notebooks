@@ -5,7 +5,10 @@ channels:
 dependencies:
   - python =3.6
   - bokeh =0.12
-  - anaconda =4.3.1
+  - notebook =5.0
+  - pandas =0.19
+  - jupyter
+  - numpy
   - holoviews
   - datashader
   - anaconda-project
