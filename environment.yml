@@ -1,0 +1,10 @@
+name: bokehwkshp
+dependencies:
+  - python =2.7
+  - bokeh =0.12.7
+  - jupyter
+  - notebook
+  - holoviews
+  - datashader
+  - anaconda-project
+  - nodejs
